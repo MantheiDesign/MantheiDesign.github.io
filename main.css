@@ -19,7 +19,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	font-family: 'Jaldi', sans-serif;
+	font-family: 'Alegreya Sans', sans-serif;
 	font-weight: 300;
 	color: #ec008c;
 }
@@ -58,11 +58,11 @@ table {
 
 h2 {
 	font-size: 4em;
+	font-weight: 100;
 	margin-bottom: 0.8em;
 }
 
 h3 {
-	text-transform: uppercase;
 	font-size: 2em;
 	margin-bottom: 2em;
 }
