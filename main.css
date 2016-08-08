@@ -56,13 +56,14 @@ table {
 }
 
 h2 {
-	font-size: 2em;
+	font-size: 4em;
 	font-weight: 900;
-	margin-bottom: 0.2em;
+	margin-bottom: 0.5em;
 	letter-spacing: 1px;
 }
 
 h3 {
+	color: #98085d;
 	font-size: 2em;
 	margin-bottom: 2em;
 }
