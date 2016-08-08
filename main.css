@@ -70,13 +70,10 @@ h3 {
 }
 
 p {
-	margin-bottom: 2em;
-}
-
-.description {
 	color: #98085d;
 	font-size: 2em;
 	line-height: 1.2em;
+	margin-bottom: 2em;
 }
 
 a {
