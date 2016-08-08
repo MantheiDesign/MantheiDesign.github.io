@@ -20,6 +20,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: 300;
 	color: #cb007a;
 	line-height: 1.2em;
 }
@@ -64,7 +65,7 @@ h2 {
 }
 
 h3 {
-	color: #98085d;
+	color: #6d6d6d;
 	font-size: 2em;
 	margin-bottom: 1.5em;
 }
