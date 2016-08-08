@@ -20,7 +20,7 @@ time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 	font-family: 'Alegreya Sans', sans-serif;
-	color: #ec008c;
+	color: #cb007a;
 	line-height: 1.2em;
 }
 /* HTML5 display-role reset for older browsers */
@@ -79,12 +79,12 @@ p {
 a {
 	padding: 5px;
 	text-decoration: none;
-	border-bottom: 4px dashed #ec008c;
+	border-bottom: 4px dashed #cb007a;
 }
 
 a:hover {
 	background-color: #ffebf7;
-	border-bottom: 4px solid #ec008c;
+	border-bottom: 4px solid #cb007a;
 }
 
 @media only screen 
@@ -96,17 +96,18 @@ and (orientation : portrait) {
 	}
 	
 	h2 {
-		margin-bottom: 0em;
+		margin-bottom: 0.2em;
 		line-height: 0.8em;
 	}
 	
 	h3 {
 		font-size: 1.5em;
-		margin-bottom: 1em;
+		margin-bottom: 1.5em;
 	}
 	
 	p {
 		font-size: 1.5em;
+		margin-bottom: 1.5em;
 	}
 	
 }
