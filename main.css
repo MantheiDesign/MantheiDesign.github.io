@@ -57,8 +57,8 @@ table {
 }
 
 h2 {
-	font-size: 2em;
-	margin-bottom: 1.4em;
+	font-size: 4em;
+	margin-bottom: 0.8em;
 }
 
 h3 {
@@ -68,6 +68,11 @@ h3 {
 }
 
 .description {
-	color: #4a1735;
+	color: #790b4c;
 	font-size: 2em;
+}
+
+a:hover {
+	color: #c10072;
+	background-color: #dadada;
 }
