@@ -57,5 +57,15 @@ table {
 }
 
 h2 {
-	color: pink;
+	font-weight: 700;
+	font-size: 2em;
+}
+
+h3 {
+	text-transform: capitalize;
+}
+
+.description {
+	margin-top: 50px;
+	color: #4a1735;
 }
